@@ -1,0 +1,160 @@
+.fon {
+	background-image: url(20.jpg);
+	background-size: 100% 100%;
+}
+
+.box {
+	height: 60px;
+	display: flex;
+	background-image: url(U9vM.gif);
+}
+
+.box1 {
+	background: red;
+	height: 600px;
+	background-image: url(1.jpg);
+	background-size: 100% 100%;
+}
+
+.box2 {
+	background-image: url(76cI.gif);
+	height: 200px;
+	margin-top:px;
+	display: flex;
+}
+
+.box100 {
+	background-image: url(76cI.gif);
+	height: 200px;
+	margin-top: 20px;
+	display: flex;
+}
+
+.box3 {
+	background-image:url(76cI.gif) ;
+	height: 800px;
+	display: flex;
+
+}
+
+.kids1 {
+	background: blue;
+	height: 500px;
+	width: 400px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.links {
+	color: white;
+	height: 50px;
+	margin-left: 400px;
+
+}
+
+.img {
+	height: 60px;
+}
+
+.boxlinks {
+		padding-top: 20px;
+}
+
+.kids {
+	background: blue;
+	height: 120px;
+	width: 300px;
+	padding-top: 80px;
+	margin-left: 60px;
+}
+
+.img1 {
+	background-image: url(3.jpg);
+	background-size: 100% 100%;
+}
+
+.img2 {
+	background-image: url(4.jpg);
+	background-size: 100% 100%;
+}
+
+.img3 {
+	background-image: url(5.jpg);
+	background-size: 100% 100%;
+}
+
+.img4 {
+	background-image: url(6.jpg);
+	background-size: 100% 100%;
+}
+
+.img5 {
+	background-image: url(7.jpg);
+	background-size: 100% 100%;
+}
+
+.text24 {
+	color: white;
+	margin-top: 520px;
+	margin-left: 120px;
+	font-family: MarvelRegular.ttf;
+}
+
+.text25 {
+	color: white;
+	font-family: MarvelRegular.ttf;
+}
+
+.text26 {
+	color: white;
+	font-family:  MarvelRegular.ttf;
+	margin-left: 100px;
+}
+
+.text27 {
+	color: black;
+	font-family: !important;
+	margin-top: -100px;
+}
+
+.button {
+	height: 40px;
+	width: 150px;
+	margin-top: 20px;
+	margin-left: 110px;
+	background: lightgray;
+	color: black;
+}
+
+.image1 {
+	background-image: url(10.jpg);
+	background-size: 100% 100%;
+}
+
+.image2 {
+	background-image: url(11.jpg);
+	background-size: 100% 100%;
+}
+
+.image3 {
+	background-image: url(12.jpg);
+	background-size: 100% 100%;
+}
+
+.image4 {
+	background-image: url(2.png);
+	background-size: 100% 100%;
+}
+
+.box4 {
+	background: red;
+	height: 700px;
+	display: flex;
+}
+
+.kid {
+	background-image: url(fyRU.gif);
+	height: 700px;
+	width: 950px;
+	margin-left: 1px;
+}
